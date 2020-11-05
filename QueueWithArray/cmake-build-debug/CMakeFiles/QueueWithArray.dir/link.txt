@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\QueueWithArray.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\QueueWithArray.dir/objects.a @CMakeFiles\QueueWithArray.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\QueueWithArray.dir/objects.a -Wl,--no-whole-archive  -o QueueWithArray.exe -Wl,--out-implib,libQueueWithArray.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\QueueWithArray.dir\linklibs.rsp
