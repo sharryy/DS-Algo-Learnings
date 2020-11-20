@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dar Laptop/CLionProjects/RoundRobinAlgorithm/main.cpp
+iostream
+C:/Users/Dar Laptop/CLionProjects/RoundRobinAlgorithm/iostream
+algorithm
+C:/Users/Dar Laptop/CLionProjects/RoundRobinAlgorithm/algorithm
+
